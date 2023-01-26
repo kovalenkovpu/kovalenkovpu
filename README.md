@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there everyone! 👋👋👋
 
-<!--
-**kovalenkovpu/kovalenkovpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to see you here, I'm *kovalenkovpu*, welcome! 🤗
 
-Here are some ideas to get you started:
+Here are some common information for you to get to know me a little better:
+- 👨🏻‍💻 JS, TS developer
+- 🌱 frontend mostly, but also some backend experience and capabilities with nodeJS
+- 🖥 EPAM Systems (one of the largest outsource companies) ex-employee
+- 🏠 Cian PLC (biggest real estate classifieds platform in Russia) current employee
+- 🚴🏻‍♂️ cycling, 🤼‍♀️ grappling as a hobby
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌿🌿🌿
+
+Feel free to ping me in case of any question or suggestion ☺️
